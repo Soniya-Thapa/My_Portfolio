@@ -44,7 +44,7 @@ const Projects = () => {
         status: "Completed",
         technologies: ["Next.js", "TypeScript", "Tailwind CSS", "React"],
         image: "/images/Portfolioimage.png",
-        github: "#",
+        github: "https://github.com/Soniya-Thapa/My_Portfolio.git",
         demo: "#",
         highlights: [
           "Responsive design",
