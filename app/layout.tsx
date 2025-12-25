@@ -13,7 +13,7 @@ const font = Inter({
 
 export const metadata: Metadata = {
   // MetadataBase - Replace with your actual domain when deployed
-  metadataBase: new URL('https://soniyathapa.com.np'),
+  metadataBase: new URL('http://soniya-thapa.vercel.app'),
   
   // Basic SEO
   title: "Soniya Thapa - Backend Developer | Node.js & Express Specialist",
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://soniyathapa.com.np", // Replace with your actual domain
+    url: "http://soniya-thapa.vercel.app", // Replace with your actual domain
     siteName: "Soniya Thapa Portfolio",
     title: "Soniya Thapa - Backend Developer | Node.js & Express Specialist",
     description: "Backend Developer specializing in Node.js, Express, PostgreSQL, and MySQL. Currently expanding into full-stack development with React and Next.js.",
