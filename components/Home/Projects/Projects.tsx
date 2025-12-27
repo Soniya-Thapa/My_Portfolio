@@ -28,7 +28,7 @@ const Projects = () => {
         status: "In Development",
         technologies: ["React", "Next.js", "Tailwind CSS", "Node.js", "Express", "MySQL"],
         image: "/images/trainingimage.png",
-        github: "https://github.com/Soniya-Thapa/Training_Platform_Project.git",
+        github: "https://github.com/Soniya-Thapa/Training_Platform_as_a_SaaS.git",
         demo: null,
         highlights: [
           "React component development",
